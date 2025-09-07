@@ -13,6 +13,7 @@
 
     // Recommended Options
     "strict": true,
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "esModuleInterop": true
   }
 }

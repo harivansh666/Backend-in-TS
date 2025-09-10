@@ -1,6 +1,6 @@
 import mongoose, { Schema } from "mongoose"
 
-interface IBook {
+export interface IBook {
     name: string,
     author: string,
     publishYear: number,
